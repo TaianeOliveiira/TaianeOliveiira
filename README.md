@@ -62,4 +62,4 @@ Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhe
 - Email: taianesteigleder@gmail.com  
 
 
-![Taiane GitHub stats](https://github-readme-stats.vercel.app/api?username=TaianeOliveira&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaianeOliveiira&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
