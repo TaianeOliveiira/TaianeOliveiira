@@ -1,21 +1,28 @@
 # 👋 Oi, eu sou a Taiane!
 
-💻 Código, jogos e algumas ideias que provavelmente começaram com  
-**"e se eu tentasse fazer isso?"**
+💻 Código, jogos e algumas ideias que provavelmente vieram com **"e se eu tentasse fazer isso?"**
 
-🎮 Gosto de tecnologia, programação e principalmente da parte de descobrir
-**por que alguma coisa que estava funcionando decidiu parar de funcionar.**
-
-☕ Atualmente alternando entre:
-- 🐳 Docker
-- ☁️ GitHub Codespaces
-- 🅰️ Angular
-- 🧪 QA e testes
-- 🌙 Lua
-- ☕ Java
-- 💾 Banco de dados
+🎮 Gosto de tecnologia, programação e principalmente da parte de descobrir **por que alguma coisa que estava funcionando decidiu parar de funcionar.**
 
 ---
+
+## 🔧 Mexendo no momento
+
+🐳 Docker • ☁️ GitHub Codespaces • 🅰️ Angular • 🧪 Controle de Qualidade • 🎮 Jogos • 🌙 Lua
+
+---
+
+## 🎮 Meu ciclo de desenvolvimento
+
+```text
+💻 Programar
+🐛 Encontrar um bug
+🔎 Descobrir de onde veio
+🔧 Tentar consertar
+🐛 Encontrar outro bug
+☕ Café
+🔁 Repetir
+```
 
 ## 🛠️ Tecnologias
 
@@ -30,13 +37,3 @@
 </p>
 
 ---
-
-## 🎮 Atualmente...
-
-```text
-💻 programando
-🐛 encontrando bugs
-🔎 procurando de onde veio o bug
-🐛 encontrando outro bug
-☕ tomando café
-🔧 tentando consertar o primeiro bug
